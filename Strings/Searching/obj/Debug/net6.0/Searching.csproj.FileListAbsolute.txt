@@ -1,0 +1,15 @@
+/Users/winifredrex/Desktop/Com313/Start/Strings/Searching/bin/Debug/net6.0/Searching
+/Users/winifredrex/Desktop/Com313/Start/Strings/Searching/bin/Debug/net6.0/Searching.deps.json
+/Users/winifredrex/Desktop/Com313/Start/Strings/Searching/bin/Debug/net6.0/Searching.runtimeconfig.json
+/Users/winifredrex/Desktop/Com313/Start/Strings/Searching/bin/Debug/net6.0/Searching.dll
+/Users/winifredrex/Desktop/Com313/Start/Strings/Searching/bin/Debug/net6.0/Searching.pdb
+/Users/winifredrex/Desktop/Com313/Start/Strings/Searching/obj/Debug/net6.0/Searching.csproj.AssemblyReference.cache
+/Users/winifredrex/Desktop/Com313/Start/Strings/Searching/obj/Debug/net6.0/Searching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/winifredrex/Desktop/Com313/Start/Strings/Searching/obj/Debug/net6.0/Searching.AssemblyInfoInputs.cache
+/Users/winifredrex/Desktop/Com313/Start/Strings/Searching/obj/Debug/net6.0/Searching.AssemblyInfo.cs
+/Users/winifredrex/Desktop/Com313/Start/Strings/Searching/obj/Debug/net6.0/Searching.csproj.CoreCompileInputs.cache
+/Users/winifredrex/Desktop/Com313/Start/Strings/Searching/obj/Debug/net6.0/Searching.dll
+/Users/winifredrex/Desktop/Com313/Start/Strings/Searching/obj/Debug/net6.0/refint/Searching.dll
+/Users/winifredrex/Desktop/Com313/Start/Strings/Searching/obj/Debug/net6.0/Searching.pdb
+/Users/winifredrex/Desktop/Com313/Start/Strings/Searching/obj/Debug/net6.0/Searching.genruntimeconfig.cache
+/Users/winifredrex/Desktop/Com313/Start/Strings/Searching/obj/Debug/net6.0/ref/Searching.dll
