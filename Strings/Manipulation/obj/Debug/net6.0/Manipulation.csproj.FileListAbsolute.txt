@@ -1,0 +1,15 @@
+/Users/winifredrex/Desktop/Com313/Start/Strings/Manipulation/bin/Debug/net6.0/Manipulation
+/Users/winifredrex/Desktop/Com313/Start/Strings/Manipulation/bin/Debug/net6.0/Manipulation.deps.json
+/Users/winifredrex/Desktop/Com313/Start/Strings/Manipulation/bin/Debug/net6.0/Manipulation.runtimeconfig.json
+/Users/winifredrex/Desktop/Com313/Start/Strings/Manipulation/bin/Debug/net6.0/Manipulation.dll
+/Users/winifredrex/Desktop/Com313/Start/Strings/Manipulation/bin/Debug/net6.0/Manipulation.pdb
+/Users/winifredrex/Desktop/Com313/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.csproj.AssemblyReference.cache
+/Users/winifredrex/Desktop/Com313/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/winifredrex/Desktop/Com313/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.AssemblyInfoInputs.cache
+/Users/winifredrex/Desktop/Com313/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.AssemblyInfo.cs
+/Users/winifredrex/Desktop/Com313/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.csproj.CoreCompileInputs.cache
+/Users/winifredrex/Desktop/Com313/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.dll
+/Users/winifredrex/Desktop/Com313/Start/Strings/Manipulation/obj/Debug/net6.0/refint/Manipulation.dll
+/Users/winifredrex/Desktop/Com313/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.pdb
+/Users/winifredrex/Desktop/Com313/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.genruntimeconfig.cache
+/Users/winifredrex/Desktop/Com313/Start/Strings/Manipulation/obj/Debug/net6.0/ref/Manipulation.dll
