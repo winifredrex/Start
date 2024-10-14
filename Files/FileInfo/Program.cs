@@ -11,8 +11,12 @@ if (!File.Exists(filename)) {
 }
 
 // TODO: Get some information about the file
+Console.WriteLine(File.GetCreationTime(filename));
+Console.WriteLine(File.GetLastWriteTime(filename));
+Console.WriteLine(File.GetLastAccessTime(filename));
 
-
+File.SetAttributes(filename, FileAttributes.ReadOnly);
+Console.WriteLine(File.GetAttributes(filename));    
 // TODO: We can also get general information using a FileInfo 
 
 

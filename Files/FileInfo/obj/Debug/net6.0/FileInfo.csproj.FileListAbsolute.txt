@@ -1,0 +1,15 @@
+/Users/winifredrex/Desktop/Com313/Start/Files/FileInfo/bin/Debug/net6.0/FileInfo
+/Users/winifredrex/Desktop/Com313/Start/Files/FileInfo/bin/Debug/net6.0/FileInfo.deps.json
+/Users/winifredrex/Desktop/Com313/Start/Files/FileInfo/bin/Debug/net6.0/FileInfo.runtimeconfig.json
+/Users/winifredrex/Desktop/Com313/Start/Files/FileInfo/bin/Debug/net6.0/FileInfo.dll
+/Users/winifredrex/Desktop/Com313/Start/Files/FileInfo/bin/Debug/net6.0/FileInfo.pdb
+/Users/winifredrex/Desktop/Com313/Start/Files/FileInfo/obj/Debug/net6.0/FileInfo.csproj.AssemblyReference.cache
+/Users/winifredrex/Desktop/Com313/Start/Files/FileInfo/obj/Debug/net6.0/FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/winifredrex/Desktop/Com313/Start/Files/FileInfo/obj/Debug/net6.0/FileInfo.AssemblyInfoInputs.cache
+/Users/winifredrex/Desktop/Com313/Start/Files/FileInfo/obj/Debug/net6.0/FileInfo.AssemblyInfo.cs
+/Users/winifredrex/Desktop/Com313/Start/Files/FileInfo/obj/Debug/net6.0/FileInfo.csproj.CoreCompileInputs.cache
+/Users/winifredrex/Desktop/Com313/Start/Files/FileInfo/obj/Debug/net6.0/FileInfo.dll
+/Users/winifredrex/Desktop/Com313/Start/Files/FileInfo/obj/Debug/net6.0/refint/FileInfo.dll
+/Users/winifredrex/Desktop/Com313/Start/Files/FileInfo/obj/Debug/net6.0/FileInfo.pdb
+/Users/winifredrex/Desktop/Com313/Start/Files/FileInfo/obj/Debug/net6.0/FileInfo.genruntimeconfig.cache
+/Users/winifredrex/Desktop/Com313/Start/Files/FileInfo/obj/Debug/net6.0/ref/FileInfo.dll
