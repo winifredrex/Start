@@ -1,0 +1,15 @@
+/Users/winifredrex/Desktop/Com313/Start/Files/ReadWriteFiles/bin/Debug/net6.0/ReadWriteFiles
+/Users/winifredrex/Desktop/Com313/Start/Files/ReadWriteFiles/bin/Debug/net6.0/ReadWriteFiles.deps.json
+/Users/winifredrex/Desktop/Com313/Start/Files/ReadWriteFiles/bin/Debug/net6.0/ReadWriteFiles.runtimeconfig.json
+/Users/winifredrex/Desktop/Com313/Start/Files/ReadWriteFiles/bin/Debug/net6.0/ReadWriteFiles.dll
+/Users/winifredrex/Desktop/Com313/Start/Files/ReadWriteFiles/bin/Debug/net6.0/ReadWriteFiles.pdb
+/Users/winifredrex/Desktop/Com313/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.csproj.AssemblyReference.cache
+/Users/winifredrex/Desktop/Com313/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/winifredrex/Desktop/Com313/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.AssemblyInfoInputs.cache
+/Users/winifredrex/Desktop/Com313/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.AssemblyInfo.cs
+/Users/winifredrex/Desktop/Com313/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.csproj.CoreCompileInputs.cache
+/Users/winifredrex/Desktop/Com313/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.dll
+/Users/winifredrex/Desktop/Com313/Start/Files/ReadWriteFiles/obj/Debug/net6.0/refint/ReadWriteFiles.dll
+/Users/winifredrex/Desktop/Com313/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.pdb
+/Users/winifredrex/Desktop/Com313/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.genruntimeconfig.cache
+/Users/winifredrex/Desktop/Com313/Start/Files/ReadWriteFiles/obj/Debug/net6.0/ref/ReadWriteFiles.dll

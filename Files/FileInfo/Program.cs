@@ -29,7 +29,14 @@ catch (Exception e){
     Console.WriteLine($"Exception:{e}");
 }
 
-// TODO: File information can also be manipulated
+// TODO: File information can also be manipulated and maipulate the time
 DateTime dt = new DateTime(2020, 7, 1);
+
+
+// manipulate the time 
+
+
+
+
 File.SetCreationTime(filename, dt);
 Console.WriteLine(File.GetCreationTime(filename));
