@@ -1,0 +1,15 @@
+/Users/winifredrex/Desktop/Com313/Start/Files/CreateFiles/bin/Debug/net6.0/CreateFiles
+/Users/winifredrex/Desktop/Com313/Start/Files/CreateFiles/bin/Debug/net6.0/CreateFiles.deps.json
+/Users/winifredrex/Desktop/Com313/Start/Files/CreateFiles/bin/Debug/net6.0/CreateFiles.runtimeconfig.json
+/Users/winifredrex/Desktop/Com313/Start/Files/CreateFiles/bin/Debug/net6.0/CreateFiles.dll
+/Users/winifredrex/Desktop/Com313/Start/Files/CreateFiles/bin/Debug/net6.0/CreateFiles.pdb
+/Users/winifredrex/Desktop/Com313/Start/Files/CreateFiles/obj/Debug/net6.0/CreateFiles.csproj.AssemblyReference.cache
+/Users/winifredrex/Desktop/Com313/Start/Files/CreateFiles/obj/Debug/net6.0/CreateFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/winifredrex/Desktop/Com313/Start/Files/CreateFiles/obj/Debug/net6.0/CreateFiles.AssemblyInfoInputs.cache
+/Users/winifredrex/Desktop/Com313/Start/Files/CreateFiles/obj/Debug/net6.0/CreateFiles.AssemblyInfo.cs
+/Users/winifredrex/Desktop/Com313/Start/Files/CreateFiles/obj/Debug/net6.0/CreateFiles.csproj.CoreCompileInputs.cache
+/Users/winifredrex/Desktop/Com313/Start/Files/CreateFiles/obj/Debug/net6.0/CreateFiles.dll
+/Users/winifredrex/Desktop/Com313/Start/Files/CreateFiles/obj/Debug/net6.0/refint/CreateFiles.dll
+/Users/winifredrex/Desktop/Com313/Start/Files/CreateFiles/obj/Debug/net6.0/CreateFiles.pdb
+/Users/winifredrex/Desktop/Com313/Start/Files/CreateFiles/obj/Debug/net6.0/CreateFiles.genruntimeconfig.cache
+/Users/winifredrex/Desktop/Com313/Start/Files/CreateFiles/obj/Debug/net6.0/ref/CreateFiles.dll
